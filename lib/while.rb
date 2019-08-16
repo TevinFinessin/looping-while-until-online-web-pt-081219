@@ -6,6 +6,5 @@ def using_while(phrase)
   puts phrase
 end
 end
-end
 
 
