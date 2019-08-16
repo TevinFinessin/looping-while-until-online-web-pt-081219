@@ -7,4 +7,4 @@ def using_while(phrase)
 end
 end
 
-using_while(phrase)
+phrase
