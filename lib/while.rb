@@ -3,7 +3,7 @@ def using_while(phrase)
   #your code here
   while levitation_force < 10
   levitation_force += 1
-  puts using_while(phrase)
+  puts phrase
 end
 end
 
